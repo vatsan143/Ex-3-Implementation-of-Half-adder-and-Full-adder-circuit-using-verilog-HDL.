@@ -1,5 +1,5 @@
 # Date:
-# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Ex - 3 Implementation of Half adder and Full adder circuit using verilog HDL
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -39,8 +39,8 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: v.sanjay
-RegisterNumber:  23012749
+Developed by: Baudhigan D
+RegisterNumber:  23012654
 
 half_adder:
 module half_adder(a,b,s,c);
