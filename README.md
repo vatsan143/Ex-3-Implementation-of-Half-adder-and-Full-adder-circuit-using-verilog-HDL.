@@ -64,7 +64,8 @@ RTL realization
 half_adder: 
 ![3](https://github.com/sanjayy2431/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365143/9c9936b0-dc5d-4398-a96a-93972d171e0a) 
 full_adder:
-![3](https://github.com/sanjayy2431/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365143/41bb591d-f655-4624-b2d5-c9730258) 
+![image](https://github.com/sanjayy2431/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365143/e0b6d8b2-f057-4d72-9f5f-607bc401b9d2)
+
 
 RTL:
 half_adder:
