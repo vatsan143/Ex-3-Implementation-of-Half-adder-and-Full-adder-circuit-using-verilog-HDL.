@@ -79,18 +79,19 @@ full_adder:
 
 
 ### TRUTH TABLE 
-half_adder:
+## half_adder:
 
 ![image](https://github.com/sanjayy2431/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365143/180902e3-bd62-4591-a56a-5c28f1bb8b04)
 
 
 
 
-full_adder:
+## full_adder:
 
 ![image](https://github.com/sanjayy2431/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149365143/dfcb2a12-1b86-445d-8dcb-9594f1c16a3b)
 
 
 
 ### Result:
-The program half adder and full adder executed succesfully
+
+The program half adder and full adder executed succesfully.
